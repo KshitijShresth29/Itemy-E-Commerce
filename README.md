@@ -1,1 +1,1 @@
-#   E-Commerce Clone
+#   Itemy E-Commerce site
