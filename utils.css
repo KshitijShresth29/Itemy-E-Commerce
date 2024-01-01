@@ -14,3 +14,11 @@ justify-content: center;
 .semibold{
     font-weight: bolder;
 }
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.section1{
+    background: rgb(232, 228, 228);
+    height: 122vh;
+}
