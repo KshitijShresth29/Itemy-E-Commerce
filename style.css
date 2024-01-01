@@ -2,13 +2,16 @@ body {
     height: 100%;
     width: 100%;
 }
+header{
+   
+}
 
 .left img{
-    width: 23px;
-    height: 23px;
+    width: 35px;
+    height: 33px;
 }
 .container{
-    max-width: 80vw;
+    padding: 0 10vw ;
     margin: auto;
 }
 nav ul li{
