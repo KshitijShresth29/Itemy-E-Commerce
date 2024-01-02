@@ -38,3 +38,7 @@ nav ul li{
     background: #f7f8fd;
     border-radius: 5px;
 }
+.homeImg{
+    width: 80vw;
+    margin: 12px 0;
+}
